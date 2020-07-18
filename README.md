@@ -1,3 +1,2 @@
 # hello-world
-first
-I am new man
+的啥都不会
